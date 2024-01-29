@@ -1,0 +1,6 @@
+to change working directory:
+cd C:\Users\cogan\Desktop\HCmap
+
+set FLASK_APP=app.py
+set FLASK_ENV=development
+flask run

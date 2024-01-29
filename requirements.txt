@@ -1,0 +1,4 @@
+Flask==2.2.3
+folium==0.14.0
+pandas==1.5.3
+Werkzeug==2.2.3
